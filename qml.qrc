@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>tada-mark-bg.gif</file>
+        <file>images/1.gif</file>
+        <file>images/2.gif</file>
+        <file>images/4.gif</file>
+        <file>images/5.gif</file>
+        <file>images/header.gif</file>
+    </qresource>
+</RCC>
